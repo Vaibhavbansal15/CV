@@ -2,8 +2,12 @@ body{
     background-color: lightgrey;
 }
 img{
-    border: 2px solid black;
-    border-radius: 50px;
+    height: 250px;
+    width: 250px;
+    /* border: 5px solid brown;
+    border-radius: 250px; */
+    border-radius: 250px;
+    padding: 5px;
 }
 h1,h3{
     color:firebrick;
@@ -31,5 +35,10 @@ hr{
     margin-bottom: 10px;
 }
 #Photo:hover{
-    border: 5px solid brown; 
+    border: 5px solid brown;
+    border-radius: 250px;
+    padding: 5px;
+}
+.links:hover{
+    padding: 10px;    
 }
