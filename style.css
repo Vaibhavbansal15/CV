@@ -30,3 +30,6 @@ hr{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+#Photo:hover{
+    border: 5px solid brown; 
+}
